@@ -53,6 +53,7 @@ We utilized the following methods to analyze the dataset:
 
 * **Clustering**: Compared K-Means (hard clustering) vs. Gaussian Mixture Models (GMM) to identify distinct development stages and system transition patterns.
 * **Dimensionality Reduction**: Compared PCA (variance maximization) vs. ICA (independent source separation) vs Random Projections to extract insights from high-dimensional health data.
+* **Clustering on Dimensionality Reduction**: Compare clustering results on dimensionally reduced data.
 
 ## Authors
 
