@@ -22,7 +22,7 @@ Ensure you have Python installed (preferably Python 3.8 or higher).
 
 1.  **Clone the repository** (or download the files to a local folder):
     ```bash
-    git clone https://github.com/sannankanwar/BG4104Assignment2
+    git clone https://github.com/sannankanwar/BG4104Assignment2.git
     cd (your folder here)
     ```
 
